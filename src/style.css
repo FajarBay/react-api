@@ -15,7 +15,7 @@ body {
     margin: 0;
   }
   ul.header {
-    background-color: #24CED0;
+    background-color: darkcyan;
     padding: 0;
   }
   ul.header li a {
@@ -45,7 +45,7 @@ body {
     border-radius: 50%;
     width: 230px;
     height: 230px;
-    background-color: #24CED0;
+    background-color: darkcyan;
     color: white;
     padding-left: 10px;
     padding-right: 10px;
